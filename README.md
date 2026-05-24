@@ -1,5 +1,5 @@
 # Hi 👋, I'm Vanshika Sisodia
-### ECE Student | Web Developer | DSA Enthusiast | India
+### ECE Student | Web Developer | DSA Enthusiast
 
 🚀 Passionate about building responsive and user-friendly web applications  
 💡 Love problem-solving and learning new technologies  
