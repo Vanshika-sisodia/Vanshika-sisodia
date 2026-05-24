@@ -16,15 +16,10 @@
 ---
 
 ## 🛠️ Languages & Tools
-- C++
-- Python
-- JavaScript
-- HTML
-- CSS
-- Node.js
-- Express.js
-- MongoDB
-- Git & GitHub
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,git,js,html,css,react,nodejs,express,mongodb" />
+</p>
 
 ---
 
